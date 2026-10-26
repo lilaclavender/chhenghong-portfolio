@@ -1,0 +1,26 @@
+:root {
+  font-family: "DM Sans", sans-serif;
+  color: #34264d;
+  background: #fff9f4;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+}
+
+button,
+a {
+  font: inherit;
+}
